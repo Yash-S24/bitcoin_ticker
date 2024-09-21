@@ -1,6 +1,6 @@
 # bitcoin_ticker
 
-A new Flutter project.
+An innovative flutter project which helps us to get a track of some famous cryptocurrencies like Bitcoin,Ether and Litecoin,it also gives the record of these cryptocurrencies in required currency.
 
 ## Getting Started
 
